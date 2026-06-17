@@ -18,8 +18,7 @@ export const products: Product[] = [
     brand: "Sugar Cosmetics",
     description:
       'A whipped, mousse-like formula that glides on smooth and sets to a soft-matte finish without drying your lips.',
-    image:
-      'https://images.unsplash.com/photo-1631214540242-3cd8c4b0b3b8?auto=format&fit=crop&w=600&q=80',
+    image: '/assets/images/1.png',
     rating: 4.8,
     reviewsCount: 1243,
     mrp: 499,
@@ -32,8 +31,7 @@ export const products: Product[] = [
     brand: 'MARS Cosmetics',
     description:
       'Lightweight, richly pigmented liquid lipstick with a velvety matte finish that lasts all day long.',
-    image:
-      'https://images.unsplash.com/photo-1631730359585-38a4935cbec4?auto=format&fit=crop&w=600&q=80',
+    image: '/assets/images/2.png',
     rating: 4.7,
     reviewsCount: 982,
     mrp: 399,
@@ -46,8 +44,7 @@ export const products: Product[] = [
     brand: 'Lakmé',
     description:
       'A creamy, fade-resistant matte lipstick enriched with vitamin E for a smooth, comfortable wear.',
-    image:
-      'https://images.unsplash.com/photo-1631730486572-226d1f595b68?auto=format&fit=crop&w=600&q=80',
+    image: '/assets/images/3.png',
     rating: 4.9,
     reviewsCount: 2156,
     mrp: 599,

@@ -14,7 +14,7 @@ const reviews: Review[] = [
   {
     id: 1,
     name: 'Ananya Sharma',
-    avatar: 'https://i.pravatar.cc/100?img=47',
+    avatar: '/assets/images/1.png',
     rating: 5,
     comment:
       'The texture feels so creamy yet sets to a perfect matte finish. Lasted through my entire workday without drying my lips!',
@@ -23,7 +23,7 @@ const reviews: Review[] = [
   {
     id: 2,
     name: 'Riya Kapoor',
-    avatar: 'https://i.pravatar.cc/100?img=32',
+    avatar: '/assets/images/2.png',
     rating: 5,
     comment:
       'Absolutely love the pigmentation and how lightweight it feels. The Crimson Velvet shade is stunning for evening looks.',
@@ -32,7 +32,7 @@ const reviews: Review[] = [
   {
     id: 3,
     name: 'Meera Nair',
-    avatar: 'https://i.pravatar.cc/100?img=44',
+    avatar: '/assets/images/3.png',
     rating: 4.5,
     comment:
       'Smudge-proof claims are real — tested it through a long brunch and it stayed flawless. Packaging feels so premium too.',

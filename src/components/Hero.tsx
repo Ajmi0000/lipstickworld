@@ -94,7 +94,7 @@ const Hero = () => {
             <motion.img
               animate={{ y: [0, -16, 0] }}
               transition={{ duration: 5, repeat: Infinity, ease: 'easeInOut' }}
-              src="https://images.unsplash.com/photo-1631214540242-3cd8c4b0b3b8?auto=format&fit=crop&w=500&q=80"
+              src="/assets/images/4.png"
               alt="Luxury liquid lipstick product mockup"
               className="w-full rounded-3xl shadow-2xl object-cover aspect-[3/4] border-4 border-white/70"
             />
